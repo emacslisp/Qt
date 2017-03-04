@@ -28,7 +28,7 @@
       <widget class="QLineEdit" name="lineEdit"/>
       <widget class="QPushButton" name="findButton">
        <property name="text">
-        <string>findButton</string>
+        <string>Find</string>
        </property>
       </widget>
      </widget>
