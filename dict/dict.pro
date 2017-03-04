@@ -14,8 +14,10 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
-        mainwindow.cpp
+        mainwindow.cpp \
+    customwidgte.cpp
 
-HEADERS  += mainwindow.h
+HEADERS  += mainwindow.h \
+    customwidgte.h
 
 FORMS    += mainwindow.ui
