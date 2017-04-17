@@ -1,6 +1,6 @@
 1. Init Program stage
 
-   <1> when user open it. it should load default path, in mac is '~'
+   <1> when user open it. it should load default path, in mac is '~', in windows, it is 'C:\'.
    <2> show all list of files and folder.
    <3> two buttons is to move or copy files between.
    <4> add menus, such as open file in 'cmd.exe' or 'terminal'
