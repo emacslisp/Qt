@@ -4,6 +4,7 @@
 #include <QMainWindow>
 #include <QDir>
 #include <QStringListModel>
+#include <QtGlobal>
 
 namespace Ui {
 class MainWindow;

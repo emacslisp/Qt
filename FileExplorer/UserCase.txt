@@ -33,4 +33,8 @@
 |                | |                  |
 |                | |                  |
 |                | |                  |
-+----------------- -------------------+                                   .
++----------------- -------------------+
+
+
+4. add two button, one is going up, another one is going down.
+should try to make it work very well.
