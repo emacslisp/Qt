@@ -33,3 +33,14 @@ MainWindow::~MainWindow()
 {
     delete ui;
 }
+
+void MainWindow::on_listView_doubleClicked(const QModelIndex &index)
+{
+
+    /*int i = index.r;
+    QString selectedItemString = index.m.lst[i];
+
+    cout<<selectedItemString<<endl;*/
+
+
+}

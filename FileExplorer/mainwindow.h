@@ -18,6 +18,9 @@ public:
     explicit MainWindow(QWidget *parent = 0);
     ~MainWindow();
     QStringListModel model;
+private slots:
+    void on_listView_doubleClicked(const QModelIndex &index);
+
 private:
     Ui::MainWindow *ui;
 };
