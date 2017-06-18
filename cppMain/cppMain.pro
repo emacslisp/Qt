@@ -5,6 +5,7 @@ CONFIG -= qt
 
 SOURCES += main.cpp \
     stringexample.cpp \
-    Longest_Valid_Parentheses_32.cpp
+    Longest_Valid_Parentheses_32.cpp \
+    word_pattern_290.cpp
 
 DISTFILES +=
