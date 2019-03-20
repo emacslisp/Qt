@@ -31,3 +31,9 @@ unix {
     target.path = ~/dev/qt/clib
     INSTALLS += target
 }
+
+CONFIG(debug, debug|release) {
+    DESTDIR = ../debug
+} else {
+    DESTDIR = ../release
+}
